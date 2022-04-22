@@ -1,0 +1,21 @@
+.headword{
+ font-size: x-large;
+
+ font-weight: 600;
+}
+
+.mark-word{
+   
+   font-weight: 900;
+}
+
+#title-text{
+   text-align: center;
+}
+
+#main-img{
+   display: block;
+   
+  margin-left: auto; 
+  margin-right: auto;
+}
